@@ -1,0 +1,7 @@
+C:\Users\emincavlak\source\repos\ArrayList Tasarımı\ArrayList Tasarımı\bin\Debug\ArrayList Tasarımı.exe.config
+C:\Users\emincavlak\source\repos\ArrayList Tasarımı\ArrayList Tasarımı\bin\Debug\ArrayList Tasarımı.exe
+C:\Users\emincavlak\source\repos\ArrayList Tasarımı\ArrayList Tasarımı\bin\Debug\ArrayList Tasarımı.pdb
+C:\Users\emincavlak\source\repos\ArrayList Tasarımı\ArrayList Tasarımı\obj\Debug\ArrayList Tasarımı.csproj.AssemblyReference.cache
+C:\Users\emincavlak\source\repos\ArrayList Tasarımı\ArrayList Tasarımı\obj\Debug\ArrayList Tasarımı.csproj.CoreCompileInputs.cache
+C:\Users\emincavlak\source\repos\ArrayList Tasarımı\ArrayList Tasarımı\obj\Debug\ArrayList Tasarımı.exe
+C:\Users\emincavlak\source\repos\ArrayList Tasarımı\ArrayList Tasarımı\obj\Debug\ArrayList Tasarımı.pdb
